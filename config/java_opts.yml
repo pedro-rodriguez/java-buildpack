@@ -1,1 +1,1 @@
-java_opts: -Dspring.profiles.active=cloud -DGLOBAL_CONFIGURATION_URL=http://global-configuration-service.cfapps.io
+java_opts: -Dspring.profiles.active=cloud -DGLOBAL_CONFIGURATION_URL=http://global-configuration.cfapps.io
